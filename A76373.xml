@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends, concerning the education of children.</title>
+            <author>Bellers, John, 1654-1725.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76373</idno>
+            <idno type="STC">Wing B1827A</idno>
+            <idno type="STC">ESTC R170500</idno>
+            <idno type="EEBO-CITATION">45789151</idno>
+            <idno type="OCLC">ocm 45789151</idno>
+            <idno type="VID">172464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172464)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2631:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends, concerning the education of children.</title>
+                  <author>Bellers, John, 1654-1725.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed (p. 2): John Bellers.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  Early works to 1800.</term>
+               <term>Vocational education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:172464:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <head>AN Epiſtle to FRIENDS, Concerning the <hi>Education of Children.</hi>
+            </head>
+            <p>NEXT the Care of our own Souls, a right Educa<g ref="char:EOLhyphen"/>tion of our Children is greateſt, for he can ſcarce be ſaid to be a Happy Father, whoſe Child is Un<g ref="char:EOLhyphen"/>happy: And alſo the great Maſter of Heaven and Earth, who hath given us the Charge over them, to Nurſe and Educate, will require them at our hands: For if ſuch In<g ref="char:EOLhyphen"/>animate Things, as Corn, Wine and Flax, ſhall be ac<g ref="char:EOLhyphen"/>counted for, much more our Off-ſpring. Yet it's to be feared, if there is not more Care, and a better Method than hath been hitherto taken, in many of our Childrens Edu<g ref="char:EOLhyphen"/>cation, too many of them will leave the Service, and loſe the Bleſſing of Upholding the Profeſſion of Truth in ſuc<g ref="char:EOLhyphen"/>ceeding Ages to the Families of Strangers, whilſt the Poſte<g ref="char:EOLhyphen"/>rity of the preſent Profeſſors of it, may have little Share in it.</p>
+            <p>Heavy and Sore was the Judgment, upon that honourable old Man <hi>Eli,</hi> for his Neglect of his Children, (tho' he re<g ref="char:EOLhyphen"/>proved them,) their Sins being his and their Ruin, and the Loſs of the Prieſthood.</p>
+            <p>Reproof ſtands for little, without other good Manage<g ref="char:EOLhyphen"/>ment (and with it Children trained young, will need little Correction or Reproof either) and that lies much in a con<g ref="char:EOLhyphen"/>ſtant uſeful Imployment, joyn'd with good Inſtruction; a good Inſtructor being like to a good Seeds-man; but how Poor will the Crop be, if the Husband-man doth not manage
+<pb n="2" facs="tcp:172464:2"/>
+               <!-- PDF PAGE 49 -->
+his Ground, firſt by Plowing and ſtirring it, to prevent Weeds growing.</p>
+            <p>The Mind is always at work, bringing forth ſomething, and a right managing of that in our Children, is the chief of our Charge concerning them; and their Thoughts are of four ſorts, <hi>1ſt,</hi> either Innocent, as when Infants; or <hi>2dly,</hi> Uſeful, when their Hands are uſefully imploy'd; or <hi>3dly,</hi> Fooliſh or Wicked, When Idle; or <hi>4thly,</hi> Religious. Idle<g ref="char:EOLhyphen"/>neſs is the Devil's great Opportunity, eſpecially added to ill Company.</p>
+            <p>Infants are capable of little but feeding, bigger Children of ſome Knowledge of Good and Evil, yet of being kept as Innocent from the Evil as in their Sucking-days, by their Thoughts being entertain'd upon the Subject their hands are imploy'd in, when not upon the Inſtruction their Tutors ſhall give them (ſuitable to their Age) and ſo forward til
+l they come to a ſtronger Judgment; How readily then will they receive the Council of God, when their Regular and Inno<g ref="char:EOLhyphen"/>cent Education hath given their Spirits the Nature of the good Ground, (neither High-way nor Stony?) And a Child thus bred, will not readily depart from it when he is Old.</p>
+            <p>But few private Perſons have the Conveniencies, Leiſure and Capacity, of giving their Children an Exact Education at Home; ſuch as have Inſtructions uſually wanting ſuitable Imployment, and ſuch as have Imployment often wanting Inſtructions; ſo that the Subject is indiſpenſably the Churches Care, and worth their Modelling.</p>
+            <p>Now as a further Preface to what may be ſaid for an In<g ref="char:EOLhyphen"/>duſtrious Education of Children, I recommend to your Con<g ref="char:EOLhyphen"/>ſideration my Printed Propoſals for Raiſing a Colledge of Induſtry.</p>
+            <closer>
+               <signed>John Bellers.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:172464:2"/>
+            <!-- PDF PAGE 49 -->
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>WE having Peruſed and Conſidered a Diſcourſe, lately Publiſhed by our Friend <hi>John Bellers,</hi> for the better Education of Youth, and Ampler Proviſion for the Poor; the Care of whom Friends were Particularly Exhorted to by the laſt Yearly Meeting; we Recommend the ſaid Book to your Conſideration; as, believing it may be of Uſe for thoſe good Ends, if one Houſe or Colledge, for a beginning, were ſet on foot, with a joint Stock, by the Friends of Eſtates through the Nation.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>William Penn</item>
+                     <item>Charles Marſhall</item>
+                     <item>Leonard Fell</item>
+                     <item>John Vaughton</item>
+                     <item>Francis Stamper</item>
+                     <item>Elias Osborne</item>
+                     <item>Joſhua Middleton</item>
+                     <item>Oliver Sanſom</item>
+                     <item>Thomas Gillpin</item>
+                     <item>Richard Aſheby</item>
+                     <item>John Boulton</item>
+                     <item>Richard Watſon</item>
+                     <item>Robert Barclay</item>
+                     <item>Nathaniel Owen</item>
+                     <item>Clement Plumſted</item>
+                     <item>William Robinſon</item>
+                     <item>Joſiah Garton</item>
+                     <item>Peregrine Muſgrave</item>
+                     <item>John Harwood</item>
+                     <item>Thomas Ellwood</item>
+                     <item>William Crouch</item>
+                     <item>John Edge</item>
+                     <item>Richard Vickris.</item>
+                     <item>James Waſs</item>
+                     <item>Cornelius Maſon</item>
+                     <item>Nathaniel Markes</item>
+                     <item>Henry Gouldney</item>
+                     <item>Richard Dymond</item>
+                     <item>Francis Plumſteed</item>
+                     <item>Robert Ruddle</item>
+                     <item>Thomas Dell.</item>
+                     <item>Abel Wilkinſon</item>
+                     <item>Thomas Mincks</item>
+                     <item>Edward Wright</item>
+                     <item>John Tomkins</item>
+                     <item>John Knight</item>
+                     <item>Reuben Linskile</item>
+                     <item>John Freame</item>
+                     <item>Benjamin Ewer</item>
+                     <item>Robert Fairman</item>
+                     <item>John Hodgskins</item>
+                     <item>John Light</item>
+                     <item>John Bawne</item>
+                     <item>Richard Cook</item>
+                     <item>John Haddon.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> next Door to the <hi>Meeting-houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-ſtreet,</hi> 1697.</p>
+            <pb facs="tcp:172464:3"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </back>
+   </text>
+</TEI>
